@@ -1,0 +1,22 @@
+[
+  {
+    "NAME": "实时监控RTM服务",
+    "URL": "localhost:8794/umms/api/rtm/rest/service/RT/data/video/20181224100615379,2,3,20181226161439199"
+  },
+  {
+    "NAME": "配置中心",
+    "URL": "localhost:8888/gz/dev"
+  },
+  {
+    "NAME": "注册中心",
+    "URL": "10.0.4.101:8888/gz/dev"
+  },
+  {
+    "NAME": "baidu.com",
+    "URL": "www.baidu.com"
+  },
+  {
+    "NAME": "github",
+    "URL": "www.github.com"
+  }
+]
